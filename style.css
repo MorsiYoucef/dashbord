@@ -127,6 +127,7 @@ img.float {
   justify-content: center;
   position: relative;
   top: 50px;
+  transform: perspective(100px) translateZ(10px);
 }
 /*----------------------------- Articale----------------------- */
 .article {
